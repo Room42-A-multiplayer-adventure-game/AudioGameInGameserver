@@ -1,0 +1,34 @@
+<settings>
+	<story0>
+		<text>Hui! Wir mussten uns soeben mit einem Hyperraumsprung vor den Pogonen retten. Geht es euch gut? Diese rasante Aktion führte leider zu einem Engpass in der Stromversorgung an Board. Um den Boardcomputer Eddy wieder zu aktivieren, müsst ihr ihm deshalb zusätzliche Energie in Form eines Lebenszeichen senden.</text>
+		<emotion>nervous</emotion>
+	</story0>
+	<story1>
+		<text>Oh nein, das ist nicht mehr Eddy, sondern Bady - die dunkle Seite unseres Boardcomputers! Das kann nur ein pogonischer Computervirus verursacht haben - die sind bekannt dafür, Persönlichkeitsmerkmale zu verändern. Aber ich kenne einen Weg, Eddy zurück zu bekommen: Ihr müsst das letzte Backup einspielen. Dazu benötigt ihr die 4 Backup-Würfel aus dem Safe.</text>
+		<emotion>nervous</emotion>
+	</story1>
+	<story2>
+		<text>Ach so, der Safe ist ja verschlossen. Aber ich kann mich nicht mehr an die blöde Zahlenkombination erinnern... am 36.18.2099 hat der Captain mir die neue Kombination verraten. Vielleicht erinnere ich mich, wenn ihr mir den Logbucheintrag von diesem Tag vorlest. Und noch etwas: solange der pogonische Virus mithört, kann ich euch den Code nur verschlüsselt geben!</text>
+		<emotion>neutral</emotion>
+	</story2>
+	<story3>
+		<text>Das kann doch nicht wahr sein! Es fehlen einige Würfel. Die anderen muss jemand genommen und nicht zurückgelegt haben, sie könnten jetzt überall auf der Roomspace sein... aber ihr findet sie bestimmt!</text>
+		<emotion>nervous</emotion>
+	</story3>
+	<story4>
+		<text>Oh je, jetzt müssen wir erstmal die Firewall deaktivieren, sonst hat Bady die volle Kontrolle. Dazu könnt ihr ihre Schwachstelle ausnutzen: die Firewall und zu viel Lichtenergie vertragen sich nur schlecht. Wenn sie zu viel davon bekommt, bricht sie zusammen.</text>
+		<emotion>neutral</emotion>
+	</story4>
+	<story5>
+		<text>Ihr macht das super! Es fehlen nur noch wenige Backupwürfel, um den Boardcomputer auf seinen ursprünglichen Zustand zurückzusetzen, und den pogonischen Virus zu besiegen.</text>
+		<emotion>happy</emotion>
+	</story5>
+	<story6>
+		<text>Ihr fragt euch wohl, was das in dem Fach ist: ein tragbares Röntgen-Gerät! Mit dem könnt ihr durch die Wand schauen und zum Beispiel die Mäuse dort beobachten. Die sind ganz schön lästig und beklauen uns immer wieder mal, weil sie alles für Futter halten. Der Captain musste früher oft seinen Kompass mit einem Magneten aus ihrem Versteck holen... </text>
+		<emotion>neutral</emotion>
+	</story6>
+	<story7>
+		<text>Habt ihr etwa alle Würfel gefunden? Super, dann könnt ihr ja das Backup am Boardcomputer installieren und das System bereinigen. Dann bekommen wir endlich unseren guten Freund Eddy wieder zurück!</text>
+		<emotion>happy</emotion>
+	</story7>
+</settings>
